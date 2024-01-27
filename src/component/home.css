@@ -1,0 +1,9 @@
+.listing-Product{
+    /* background-color: aqua; */
+    width: 96vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    align-items: center;
+}
